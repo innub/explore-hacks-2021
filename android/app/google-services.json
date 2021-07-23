@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1091615858425",
+    "project_id": "hacking-4-community",
+    "storage_bucket": "hacking-4-community.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091615858425:android:4cd47400e69a03f2770c28",
+        "android_client_info": {
+          "package_name": "com.example.explore_hacks_2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091615858425-j83cokpn8jfpthdjp965u1j2eumq697v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3G1P9heTdWvwyE142BczPD3INImPUuEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091615858425-j83cokpn8jfpthdjp965u1j2eumq697v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091615858425:android:abddcc9d23ed6c06770c28",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091615858425-j83cokpn8jfpthdjp965u1j2eumq697v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3G1P9heTdWvwyE142BczPD3INImPUuEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091615858425-j83cokpn8jfpthdjp965u1j2eumq697v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
